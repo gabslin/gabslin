@@ -1,7 +1,7 @@
-<h1 align="center">Oi 👋, Eu sou o Gabriel Linhares</h1>
-<h3 align="center">Analista de Soluções Cloud</h3>
+<h1 align="center">Oi 👋, Eu sou o Francisco Gabriel Linhares</h1>
+<h3 align="center">DevOps | Cloud</h3>
 
-- 🔭 Atualmente estou trabalhando na [SEK](https://sek.io/)
+- 🔭 Atualmente estou trabalhando na [DevOps Com Rapadura](https://www.youtube.com/@DevOpscomRapadura)
 
 <h3 align="left">Minhas redes:</h3>
 <p align="left">
